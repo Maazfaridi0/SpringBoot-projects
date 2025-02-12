@@ -1,0 +1,16 @@
+com\logistic\logisticManagement\model\Delivery.class
+com\logistic\logisticManagement\controller\ProductController.class
+com\logistic\logisticManagement\model\Product.class
+com\logistic\logisticManagement\repository\OrderRepository.class
+com\logistic\logisticManagement\controller\OrderController.class
+com\logistic\logisticManagement\model\Order.class
+com\logistic\logisticManagement\controller\DeliveryController.class
+com\logistic\logisticManagement\service\ProductService.class
+com\logistic\logisticManagement\repository\ProductRepository.class
+com\logistic\logisticManagement\util\JwtUtil.class
+com\logistic\logisticManagement\service\OrderService.class
+com\logistic\logisticManagement\controller\AuthController.class
+com\logistic\logisticManagement\repository\DeliveryRepository.class
+com\logistic\logisticManagement\config\SwaggerConfig.class
+com\logistic\logisticManagement\LogisticManagementSystemApplication.class
+com\logistic\logisticManagement\service\DeliveryService.class
